@@ -11,7 +11,7 @@
         die("Connection Failed");
     }
     else{
-        echo "Successful";
+        
     }
 
 ?>
